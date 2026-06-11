@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "excel": "^1.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3",
+    "typescritp": "^1.0.0"
+  },
+  "dependencies": {}
+}
