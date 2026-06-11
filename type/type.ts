@@ -1,12 +1,12 @@
 
-type departament = {
+export type departament = {
 
     id: number,
     name: string
 
 }
 
-type province = {
+export type province = {
 
     id: number,
     name: string,
@@ -14,7 +14,7 @@ type province = {
 
 }
 
-type district = {
+export type district = {
 
     id:number 
     name: string
